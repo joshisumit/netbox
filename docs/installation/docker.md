@@ -1,5 +1,7 @@
 This guide demonstrates how to build and run NetBox as a Docker container. It assumes that the latest versions of [Docker](https://www.docker.com/) and [docker-compose](https://docs.docker.com/compose/) are already installed in your host.
 
+Running IPAM in docker is very easy
+
 # Quickstart
 
 To get NetBox up and running:
